@@ -1,0 +1,16 @@
+PODS:
+  - OneChatLib (0.1.0)
+
+DEPENDENCIES:
+  - OneChatLib (from `../`)
+
+EXTERNAL SOURCES:
+  OneChatLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OneChatLib: c4d0d6f0932ab40bdfe8c72a08c73757d46a86ba
+
+PODFILE CHECKSUM: 6451d48b23d8822f6ccc8f1b00bf053eb46082cd
+
+COCOAPODS: 1.9.3

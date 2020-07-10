@@ -1,0 +1,22 @@
+{
+  "name": "OneChatLib",
+  "version": "0.1.0",
+  "summary": "A short description of OneChatLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tangenttw/OneChatLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangenttw": "wuthisak.na@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tangenttw/OneChatLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OneChatLib/Classes/**/*"
+}

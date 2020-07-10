@@ -1,0 +1,6 @@
+framework module OneChatLib {
+  umbrella header "OneChatLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

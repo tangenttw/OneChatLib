@@ -1,0 +1,6 @@
+framework module Pods_OneChatLib_Tests {
+  umbrella header "Pods-OneChatLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OneChatLib_Example' do
+  pod 'OneChatLib', :path => '../'
+
+  target 'OneChatLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
